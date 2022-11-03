@@ -6,7 +6,6 @@
 <hr>
   <h2> <b> Proposta:</b> </h2>
   <p>Desenvolver um servidor json (Json-server) onde irá conter 3 rotas com 4+ dados nas quais o usuário poderá realizar o GET, POST, PUT, DELETE.</p>
-
 <hr> 
 <h2> <b> Como foi feito o projeto:</b> </b></h2>
 
