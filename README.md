@@ -12,3 +12,4 @@
 <p>  ⇨ Para a elaboração vocês devem escolher um tema (Lembre-se que o tema que for escolhido neste projeto poderá ser o mesmo para seu projeto final). </p>
 
 <hr>
+![API FAKE](https://user-images.githubusercontent.com/112362301/199769472-8b2cc4a9-0076-434b-ac06-40aee4adefd6.JPG)
