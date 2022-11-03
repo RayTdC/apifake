@@ -1,8 +1,8 @@
 {
-    "name": "apifake",
-    "version": "1.0.0",
-    "main": "server.js",
-    "repository": "https://github.com/RayTdC/apifake",
-    "author": "RayTdC <raishatinoco@gmail.com>",
-    "license": "MIT"
+  "name": "apifake",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/RayTdC/apifake.git",
+  "author": "RayTdC <112362301+RayTdC@users.noreply.github.com>",
+  "license": "MIT"
 }
