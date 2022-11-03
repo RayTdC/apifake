@@ -1,0 +1,24 @@
+{
+    "pratos": [
+      { "id": 1, "nomes": "Macarrão vermelho", "valor": "R$34,99", "tamanho": "400g" },
+      { "id": 2, "nomes": "Strogonoff de Frango", "valor": "R$45,99", "tamanho": "400g" },
+      { "id": 3, "nomes": "Lasanha à bolonhesa", "valor": "R$55,99", "tamanho": "500g" },
+      { "id": 4, "nomes": "PF: Feijão, Arroz, Batata frita, Salada, Bife à Milanesa", "valor": "R$37,99", "tamanho": "750g" },
+      { "id": 5, "nomes": "Feijoada", "valor": "R$55,99", "tamanho": "750g" }
+    ],
+    "bebidas": [
+      { "id": 1, "nomes": "Caipirinha", "valor": "R$12,99", "tamanho": "400ml" },
+      { "id": 2, "nomes": "Suco de Abacaxi com Hortelã", "valor": "R$8,99", "tamanho": "500ml" },
+      { "id": 3, "nomes": "Suco de Beterraba, Cenoura e Laranja", "valor": "R$8,99", "tamanho": "500ml" },
+      { "id": 4, "nomes": "Suco de Acerola com Laranja", "valor": "R$8,99", "tamanho":"500ml" },
+      { "id": 5, "nomes": "Cafézinho", "valor": "R$2,99", "tamanho":"240ml" }
+    ],
+    "sobremesas": [
+        { "id": 1, "nomes": "Mousse de Leite Ninho", "valor": "R$12,99", "tamanho": "180g" },
+        { "id": 2, "nomes": "Mousse de Maracujá", "valor": "R$12,99", "tamanho": "180g" },
+        { "id": 3, "nomes": "Iogurte com Frutas Vermelhas", "valor": "R$15,99", "tamanho": "380g"},
+        { "id": 4, "nomes": "Pudim de Leite Condensado", "valor": "R$9,99", "tamanho": "mini pudim"},
+        { "id": 5, "nomes": "Bombom de Morango na Taça", "valor": "R$17,99", "tamanho": "taça média" }
+      ]
+                  
+  }
