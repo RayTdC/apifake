@@ -3,7 +3,6 @@
 <img src="APIFAKE.JPG">
 <hr>
   
-<p>Link da hospedagem da Api fake Json-Server: https://apifake.onrender.com/</p>
 <hr>
   <h2> <b> Proposta:</b> </h2>
   <p>Desenvolver um servidor json (Json-server) onde irá conter 3 rotas com 4+ dados nas quais o usuário poderá realizar o GET, POST, PUT, DELETE.</p>
